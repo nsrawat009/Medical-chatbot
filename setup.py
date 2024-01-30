@@ -6,6 +6,6 @@ setup(
     author= 'narendra rawat',
     author_email= 'rawatnarenddra009@gmail.com',
     packages= find_packages(),
-    install_requires = []
+    install_requires = ["langchain","streamlit","pypdf","python-dotenv","llama-index"]
 
 )

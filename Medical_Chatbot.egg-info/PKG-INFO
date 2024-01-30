@@ -4,3 +4,8 @@ Version: 0.0.0
 Author: narendra rawat
 Author-email: rawatnarenddra009@gmail.com
 License-File: LICENSE
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: llama-index
