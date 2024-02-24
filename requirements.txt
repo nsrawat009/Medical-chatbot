@@ -1,11 +1,8 @@
-ctransformers
-sentence-transformers
-langchain
-streamlit
-pypdf2
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client==3.0.0
+langchain==0.0.225
+flask
+pypdf
 python-dotenv
-llama-index
-google.generativeai
-langchain-community
-langchain_google_genai
 -e .
